@@ -8,7 +8,7 @@
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
-<!-- You can include any other section that is pertinent to your problem -->
+
 
 ## General Information 
 The dataset consists of 2357 images of malignant and benign oncological diseases, which were formed from the International Skin Imaging Collaboration (ISIC). All images were sorted according to the classification taken with ISIC, and all subsets were divided into the same number of images, with the exception of melanomas and moles, whose images are slightly dominant.
@@ -32,11 +32,6 @@ You don't have to use any pre-trained model using Transfer learning. All the mod
 Some of the elements introduced in the assignment are new, but proper steps have been taken to ensure smooth learning. You must learn from the base code provided and implement the same for your problem statement.
 The model training may take time to train as you will be working with large epochs. It is advised to use GPU runtime in Google Colab.
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
@@ -46,9 +41,8 @@ The model training may take time to train as you will be working with large epoc
 -   Scikit-learn - version 1.2.0
 -   Jupiter Notebook - version 6.4.11
 
-```{=html}
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-```
+
+
 ### Contributors
 
 -   Yash Anwane
@@ -56,16 +50,3 @@ The model training may take time to train as you will be working with large epoc
 ## Contact
 
 Created by \[https://github.com/yanwane\] - feel free to contact me!
-
-```{=html}
-<!-- Optional -->
-```
-```{=html}
-<!-- ## License -->
-```
-```{=html}
-<!-- This project is open source and available under the [... License](). -->
-```
-```{=html}
-<!-- You don't have to include all sections - just the one's relevant to your project -->
-```
